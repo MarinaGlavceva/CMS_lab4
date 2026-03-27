@@ -122,7 +122,7 @@ http://localhost/wp_lab2/secure-login
 * Введён неправильный пароль несколько раз
 * После 5 попыток доступ был заблокирован
 
-
+<img width="969" height="226" alt="Image" src="https://github.com/user-attachments/assets/84c98547-e7d0-437b-a473-ecbc9aa0bc07" />
 ## Шаг 8. Восстановление из backup
 
 Проверена возможность восстановления данных из резервной копии.
